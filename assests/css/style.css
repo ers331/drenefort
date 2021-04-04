@@ -280,8 +280,8 @@ h2 {
 
 @media (max-width:800px) {
     .section p, .main-content, .main-heater, .main-container {
-     font-size: 2rem;
-     padding: 2rem;
+     font-size: 1.5rem;
+     padding: 1rem;
      line-height: 2;
      gap: 2rem;
     
@@ -297,7 +297,7 @@ h2 {
     
 
     .navigation P {
-        font-size: 2rem;
+        font-size: 1.5rem;
         line-height: 2;
     }
 
