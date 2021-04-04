@@ -291,7 +291,7 @@ h2 {
     }
 
     .navigation, .main-navigation {
-        width: 900px;
+        width: 800px;
         height: 200px;
     }
     
@@ -314,6 +314,10 @@ h2 {
     .bnt2, .bnt3 {
         height: 120px;
         width: 750px;
+    }
+    
+    .navegation {
+        display:none
     }
 
     .bnt1 {
